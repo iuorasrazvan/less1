@@ -1,0 +1,29 @@
+{
+  "name": "ircless1",
+  "version": "1.0.0",
+  "description": "Less lesson1 ",
+  "main": "./src/javascript/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuorasrazvan/less1.git"
+  },
+  "author": "Iuoras Razvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuorasrazvan/less1/issues"
+  },
+  "homepage": "https://github.com/iuorasrazvan/less1#readme",
+  
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+	"grunt-contrib-qunit":"*",
+	"grunt-contrib-watch":"*",
+	"grunt-contrib-concat":"*"
+  }
+}

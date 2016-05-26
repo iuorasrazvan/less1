@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px solid black;
+}
+div.static {
+    position: static;
+    border: 3px solid #73AD21;
+}
